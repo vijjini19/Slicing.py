@@ -1,2 +1,2 @@
-# Slicing.py
-Slicing.py
+# Slicing_Part1
+Slicing
